@@ -1,0 +1,12 @@
+ANNOVAR Version:
+	$Date: 2019-10-24 00:05:27 -0400 (Thu, 24 Oct 2019) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	/project/desmith_488/kerenxu/tools/annovar/annotate_variation.pl -filter -dbtype gnomad30_genome -buildver hg38 ensembl/snplist.avinput .
+ANNOVAR Started:
+	Sun Feb  7 15:19:53 2021
+NOTICE: Output file with variants matching filtering criteria is written to ensembl/snplist.avinput.hg38_gnomad30_genome_dropped, and output file with other variants is written to ensembl/snplist.avinput.hg38_gnomad30_genome_filtered
+NOTICE: Processing next batch with 103 unique variants in 103 input lines
+NOTICE: Database index loaded. Total number of bins is 2860873 and the number of bins to be scanned is 72
+NOTICE: Scanning filter database ./hg38_gnomad30_genome.txt...Done
